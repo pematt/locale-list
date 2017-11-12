@@ -1,0 +1,9 @@
+{
+  "name": "@pematt/locale-list",
+  "description": "List of all locales with names and codes in all languages and all data formats.",
+  "version": "1.0.0",
+  "homepage": "http://github.com/pematt/country-list",
+  "repository": "git://github.com/pematt/country-list.git",
+  "author": "Saša Stamenković <umpirsky@gmail.com>",
+  "license": "MIT"
+}
